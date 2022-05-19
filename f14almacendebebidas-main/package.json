@@ -1,5 +1,5 @@
 {
-  "name": "f14almacendebebidas-master",
+  "name": "f14almacendebebidas-main",
   "version": "1.0.0",
   "description": "Probando sass",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirbycarcamo/f14almacendebebidas.git"
+    "url": "https://github.com/kirbycarcamo/f14almacen.git"
   },
   "author": "Kirby Rivera",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kirbycarcamo/f14almacendebebidas/issues"
+    "url": "https://github.com/kirbycarcamo/f14almacen/issues"
   },
-  "homepage": "https://github.com/kirbycarcamo/f14almacendebebidas#readme"
+  "homepage": "https://github.com/kirbycarcamo/f14almacen#readme"
 }
